@@ -1,0 +1,6 @@
+This is my first college assignment.
+This file has been modified for testing.
+FileGuard modification test.
+FileGuard modification test.
+Testing protected file alert.
+Testing protected file detection

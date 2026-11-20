@@ -1,0 +1,13 @@
+# Generated backups
+backups/*
+
+# Runtime data
+data/*
+
+# Generated reports
+reports/*
+
+# Preserve required directories
+!backups/.gitkeep
+!data/.gitkeep
+!reports/.gitkeep
